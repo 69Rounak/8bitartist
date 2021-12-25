@@ -22,6 +22,7 @@ package com.google.example.eightbitartist.messages;
 public class ClearMessage extends Message {
 
     public ClearMessage() {
+System.out.println"Hello world";
 
     }
 }
